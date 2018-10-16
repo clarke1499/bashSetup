@@ -1,0 +1,6 @@
+alias ..='cd ..'
+alias e='nano'
+alias ll='ls -l'
+alias la='ls -a'
+alias lla='ls -al'
+alias atom='atom .'

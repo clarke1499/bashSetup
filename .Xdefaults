@@ -1,0 +1,8 @@
+XTerm*background:black
+XTerm*foreground:white
+XTerm.vt100.backarrowKey: false
+XTerm.ttyModes: erase ^?
+XTerm*selectToClipboard:true
+Ctrl Shift <Key>C: copy-selection(CLIPBOARD) \n\
+Ctrl Shift <Key>V: insert-selection(CLIPBOARD)
+XTerm.vt100.forceBoxChars: true
