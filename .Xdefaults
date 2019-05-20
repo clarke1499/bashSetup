@@ -6,3 +6,11 @@ XTerm*selectToClipboard:true
 Ctrl Shift <Key>C: copy-selection(CLIPBOARD) \n\
 Ctrl Shift <Key>V: insert-selection(CLIPBOARD)
 XTerm.vt100.forceBoxChars: true
+
+urxvt*font: xft:Droid Sans Mono for Powerline:style=Regular:pixelsize=11
+urxvt*scrollBar: false
+URxvt*depth: 32
+URxvt*background: rgba:0000/0000/0200/c800
+urxvt*foreground:#ffffff
+!URxvt.transparent: true
+!URxvt.shading: 20
